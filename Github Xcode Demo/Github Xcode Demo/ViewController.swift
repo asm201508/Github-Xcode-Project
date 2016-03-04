@@ -15,9 +15,13 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view, typically from a nib.
 
     print("Hello!")
-    
+
+    doSomething()
   }
 
+  func doSomething() {
+    print("do some algorithm and computation")
+  }
 
 }
 
