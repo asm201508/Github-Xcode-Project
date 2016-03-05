@@ -16,6 +16,8 @@ class ViewController: UIViewController {
 
     print("Hello!")
 
+    // Added first statement on branch - Update-the-UI branch
+    
     doSomething()
   }
 
